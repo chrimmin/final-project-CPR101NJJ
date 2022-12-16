@@ -1,0 +1,33 @@
+**** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quite):
+q
+*** End of Converting Strings to double demo***
+
+*** Start of Converting Strings to double Demo ***
+Type the long numeric string (q - to quite):
+wasd
+converted number is 0.000000
+Type the long numeric string (q - to quite):
+-5
+converted number is -5.000000
+Type the long numeric string (q - to quite):
+5
+converted number is 5.000000
+Type the long numeric string (q - to quite):
+Q
+converted number is 0.000000
+Type the long numeric string (q - to quite):
+111111111111111111111111111111111111111111111111111111111111111111111111111111
+converted number is 111111111111111107769678707941548484793531078712317572818014139101752095408128.000000
+Type the long numeric string (q - to quite):
+q
+*** End of Converting Strings to long demo***
+
+
+C:\Users\chris\OneDrive\Documents\CPR101\finalProject\CP4PFinalProject\CP4PFinalProject\x64\Debug\CP4PFinalProject.exe (process 43812) exited with code 0.
+Press any key to close this window . . .
